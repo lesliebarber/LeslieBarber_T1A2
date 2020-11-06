@@ -1,10 +1,60 @@
-nav {
+nav-bar {
     border-top: 1px solid black;    
                                        
     border-bottom: 1px solid black;
 } 
-nav-items{
-    font-size: 25px;
-    
+ul{
+
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 2px;
+    width: 400px;
+    background-color: rgb(0, 195, 255);
+
+
+}
+    li a{
+
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        color: black;
+        width: 300px;
+
+        
+    }
   
   }
+  .blog{
+      color: rgb(0, 110, 255);
+      font-size: 80px;
+    font-family: 'Noto Sans', sans-serif;
+    
+  } 
+   
+  .portfolio{
+        color: rgb(0, 110, 255);
+      font-size: 80px;
+    font-family: 'Noto Sans', sans-serif;
+    }
+
+ .contact{
+    color: rgb(0, 110, 255);
+    font-size: 80px;
+  font-family: 'Noto Sans', sans-serif;
+  
+  .welcome{
+    color: rgb(0, 110, 255);
+    font-size: 80px;
+  font-family: 'Noto Sans', sans-serif;
+  }
+ }
+ .developer-brewing{
+  color: rgb(0, 110, 255);
+  font-size: 80px;
+font-family: 'Noto Sans', sans-serif;
+ }
