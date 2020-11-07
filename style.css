@@ -71,5 +71,88 @@ font-family: 'Noto Sans', sans-serif;
  }
  .form{
    border: 3px solid black;
+
+ }
+ 
+ .card1{
+  max-width:600px;
+  max-height:350px;
+  border: 6px solid black;
+  padding: 0 20px 20px;
+  margin: 60px;
+   display:flex;
+   flex-wrap: wrap;
+   align-items: flex-start;
+   background-color:lightcyan;
+   text-align: center;
+   font-family:'Noto Sans', sans-serif; 
+   
    
  }
+ .card2{
+  max-width:600px;
+  max-height:460px;
+  border: 6px solid black;
+  padding: 0 20px 20px;
+  margin: 60px;
+   display:flex;
+   flex-wrap: wrap;
+   align-items: flex-start;
+   background-color:lightcyan;
+   text-align: center;
+   font-family:'Noto Sans', sans-serif;
+
+
+  
+
+
+}
+.card3{
+ max-width:600px;
+ max-height: 350px;
+ border: 6px solid black;
+ padding: 0 20px 20px;
+ margin: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+   align-items: flex-start;
+  background-color:lightcyan;
+  text-align: center;
+  font-family:'Noto Sans', sans-serif; 
+  
+  
+}
+
+.card4{
+ max-width:600px;
+ max-height:350px;
+ border: 6px solid black;
+ padding: 0 20px 20px;
+ margin: 60px;
+  display: flex;
+  flex-wrap: wrap;
+   align-items: flex-start;
+  background-color:lightcyan;
+  text-align: center;
+  font-family:'Noto Sans', sans-serif; 
+  
+  
+}
+
+.card5{
+ max-width:600px;
+ max-height:600px;
+ border: 6px solid black;
+ padding: 0 20px 20px;
+ margin: 60px;
+ flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+   align-items: flex-start;
+  background-color:lightcyan;
+  text-align: center;
+  font-family:'Noto Sans', sans-serif; 
+  
+  
+}
