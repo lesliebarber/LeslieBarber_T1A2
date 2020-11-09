@@ -33,7 +33,7 @@ ul{
   
   }
   
-  blog{
+  .blog{
       color: rgb(0, 110, 255);
       font-size: 80px;
     font-family: 'Noto Sans', sans-serif;
@@ -44,24 +44,33 @@ ul{
         color: rgb(0, 110, 255);
       font-size: 80px;
     font-family: 'Noto Sans', sans-serif;
+    text-align: center;
     }
 
  .contact{
     color: rgb(0, 110, 255);
     font-size: 80px;
   font-family: 'Noto Sans', sans-serif;
+  text-align: center;
   
-   h2{
-    color: rgb(0, 110, 255);
-    font-size: 80px;
-  font-family: 'Noto Sans', sans-serif;
+   
   }
  }
- .developerbrewing{
+ .welcome{
   color: rgb(0, 110, 255);
   font-size: 80px;
 font-family: 'Noto Sans', sans-serif;
+text-align:center;
+
  }
+ .center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+ }
+ 
+ 
 
  .p{
    color:black;
