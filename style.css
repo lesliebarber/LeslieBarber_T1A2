@@ -63,13 +63,18 @@ font-family: 'Noto Sans', sans-serif;
 text-align:center;
 
  }
- .center{
+ .teapot{
    display: block;
    margin-left: auto;
    margin-right: auto;
-   width: 50%;
+   width: 60%;
  }
- 
+ .me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
  
 
  .p{
@@ -172,7 +177,7 @@ text-align:center;
   text-align: center;
 }
 @media screen and (min-width:600px) {
-  
+  /*comes into effecft when screen is 600px*/
   
   
   .h1 {
@@ -195,7 +200,7 @@ text-align:center;
 }
 .card2{
   max-width:500px;
-  max-height:350px;
+  max-height:475px;
 }
 
 .card3{
@@ -206,19 +211,8 @@ text-align:center;
     max-width:500px;
     max-height:350px;
   }
-  .card5{
-    max-width:500px;
-    max-height:520px;
-  .teapot{
-  max-width:500px;
-  max-height: auto;
-}
+  ;
+  
 
 
-
-
-@media only screen and (min-width: 800px) {
-
-
-
-}
+ {
