@@ -125,7 +125,7 @@ text-align:center;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-   align-items: flex-start;
+
   background-color:lightcyan;
   text-align: center;
   font-family:'Noto Sans', sans-serif; 
@@ -135,15 +135,16 @@ text-align:center;
 
 .card4{
  max-width:600px;
- max-height:350px;
+ max-height:355px;
  border: 6px solid black;
  padding: 0 20px 20px;
  margin: 60px;
   display: flex;
   flex-wrap: wrap;
-   align-items: flex-start;
+   align-items: center;
   background-color:lightcyan;
   text-align: center;
+  align-content: flex-start;
   font-family:'Noto Sans', sans-serif; 
   
   
@@ -151,7 +152,7 @@ text-align:center;
 
 .card5{
  max-width:600px;
- max-height:600px;
+ max-height:625px;
  border: 6px solid black;
  padding: 0 20px 20px;
  margin: 60px;
@@ -169,4 +170,55 @@ text-align:center;
   font-family:'Noto Sans', sans-serif;
   font-size: 25px ;
   text-align: center;
+}
+@media screen and (min-width:600px) {
+  
+  
+  
+  .h1 {
+    font-size:32px;
+
+  }
+  .h4{
+    font-size:24px;
+
+  }
+.p{
+  font-size:16px;
+
+}
+.card1{
+  max-width:500px;
+  max-height:350px;
+
+
+}
+.card2{
+  max-width:500px;
+  max-height:350px;
+}
+
+.card3{
+  max-width:500px;
+  max-height:350px;
+}
+  .card4{
+    max-width:500px;
+    max-height:350px;
+  }
+  .card5{
+    max-width:500px;
+    max-height:520px;
+  .teapot{
+  max-width:500px;
+  max-height: auto;
+}
+
+
+
+
+@media only screen and (min-width: 800px) {
+
+
+
 }
