@@ -95,22 +95,22 @@ text-align:center;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  Font-family:'Noto Sans', sans-serif;
+  font-family:'Noto Sans', sans-serif;
+
  }
+  
   
 
    .card{
      flex: 0 1 calc(25% -1em);
+     Font-family:'Noto Sans', sans-serif;
      /*  this is to make each card not flex grow then flex-shrink and percentage is the width and minus 1 em to shrink the card slightly*/
    }
 
 
-  
+   
 
 
-}
-
-}
 .portfolio-para{
   font-family:'Noto Sans', sans-serif;
   font-size: 25px ;
@@ -169,6 +169,7 @@ text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 100%%;
+  }
   
   .h1 {
     font-size:28px;
