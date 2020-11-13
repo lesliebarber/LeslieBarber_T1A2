@@ -95,11 +95,12 @@ text-align:center;
   max-width:600px;
   max-height:350px;
   border: 6px solid black;
-  padding: 0 20px 20px;
+  padding: 20px 20px 20px;
   margin: 60px;
-   display:flex;
+   display:inline-flex;
    flex-wrap: wrap;
    align-items: flex-start;
+   justify-content: center;
    background-color:lightcyan;
    text-align: center;
    font-family:'Noto Sans', sans-serif; 
@@ -110,11 +111,12 @@ text-align:center;
   max-width:600px;
   max-height:460px;
   border: 6px solid black;
-  padding: 0 20px 20px;
-  margin: 40px;
-   display:flex;
-   flex-wrap: wrap;
+  padding: 20px 20px 20px;
+  margin: 60px;
+   display:inline-flex;
+   flex-wrap:wrap;
    align-items: flex-start;
+   justify-content: center;
    background-color:lightcyan;
    text-align: center;
    font-family:'Noto Sans', sans-serif;
@@ -128,12 +130,12 @@ text-align:center;
  max-width:600px;
  max-height: 350px;
  border: 6px solid black;
- padding: 0 20px 20px;
- margin: 40px;
-  display: flex;
+ padding: 20px 20px 20px;
+ margin: 60px;
+  display: inline-flex;
   flex-wrap: wrap;
   align-items: flex-start;
-
+  justify-content: center;
   background-color:lightcyan;
   text-align: center;
   font-family:'Noto Sans', sans-serif; 
@@ -145,11 +147,12 @@ text-align:center;
  max-width:600px;
  max-height:355px;
  border: 6px solid black;
- padding: 0 20px 20px;
- margin: 30px;
-  display: flex;
+ padding: 20px 20px 20px;
+ margin: 60px;
+  display: inline-flex;
   flex-wrap: wrap;
    align-items: center;
+   justify-content: center;
   background-color:lightcyan;
   text-align: center;
   align-content: flex-start;
@@ -162,12 +165,13 @@ text-align:center;
  max-width:600px;
  max-height:625px;
  border: 6px solid black;
- padding: 0 20px 20px;
+ padding: 20px 20px 20px;
  margin: 60px;
  flex-wrap: wrap;
-  display: flex;
+  display:inline-flex;
   flex-wrap: wrap;
    align-items: flex-start;
+   justify-content: center;
   background-color:lightcyan;
   text-align: center;
   font-family:'Noto Sans', sans-serif; 
@@ -196,40 +200,85 @@ text-align: center;
 
 }
 @media screen and (min-width:500px) {
-  /*comes into effecft when screen is 600px*/
+  /*comes into effecft when screen is 500px*/
   
   
   .h1 {
     font-size:32px;
+    text-align:center;
 
   }
   .h4{
     font-size:24px;
+    text-align:center;
 
   }
 .p{
   font-size:16px;
+  text-align:center;
 
 }
+.container1{
+  max-width:400px;
+  margin:auto;
+}
+  .container2{
+    max-width:400px;
+  margin:auto;
+  }
+  .container3{
+    max-width:400px;
+   margin:auto;
+  }
+  .container4{
+    max-width:400px;
+    margin:auto;}
+  .container5{
+    max-width:400px;
+   margin:auto;
+  }
+  .fruitbox{
+    width: 100%;
+    height:auto;
+  }
+  .coffee{
+    width: 100%;
+    height:auto;
+  }
+  .citrusfruit{
+    width: 100%;
+    height:auto;
+  }
+  .sourdoughbreads{
+    width: 100%;
+    height:auto;
+  }
+  .corn{width: 100%;
+    height:auto;}
 .card1{
-  max-width:500px;
-  max-height:350px;
+  max-width:400px;
+  margin:auto;
 
 
 }
 .card2{
-  max-width:500px;
-  max-height:475px;
+  max-width:400px;
+   margin:auto;
 }
 
 .card3{
-  max-width:500px;
-  max-height:350px;
+  max-width:400px;
+   margin:auto;
 }
   .card4{
-    max-width:500px;
-    max-height:350px;
+    max-width:400px;
+    margin:auto;
   }
+    .card5{
+     max-width:400px;
+     margin:auto;
+    }
+}
   @media screen and (min-width:700px) {
     /*comes into effecft when screen is 700px*/
   
@@ -245,6 +294,11 @@ text-align: center;
     font-size:16px;
   
   }
+  .container1{}
+  .container2{}
+  .container3{}
+  .container4{}
+  .container5{}
   .card1{
     max-width:500px;
     max-height:350px;
@@ -264,4 +318,5 @@ text-align: center;
       max-width:500px;
       max-height:350px;
 
- {
+    }
+  }
