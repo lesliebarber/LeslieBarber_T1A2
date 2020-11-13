@@ -89,12 +89,13 @@ text-align:center;
    /*used to provide a border of 3px in black around the contact form*/
 
  }
- /* Below is the styling for the cards on the blog page giving the max width and height, a border.  Adding padding and margin as well as the display, where the card is to start with the align item with flex-start.  A background color of light cyan, the text align to the center and of course the font- family used.  each card has its own width and height due to content*/
+ /* Below is the styling for the cards in the section in the blog page the display used is flex with content having space between and adding flex wrap makes flex box wrap the items underneath each other this stops the cards trying to fit all in one line */
  
  .cards{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  Font-family:'Noto Sans', sans-serif;
  }
   
 
