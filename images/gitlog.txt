@@ -1,0 +1,107 @@
+commit 2a184158a8abfc634191d084efa65bfe1b07aa0b
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 14 10:00:07 2020 +1100
+
+    closed the brackets on h1 css and teapot css added intrgrity hash to index.html
+
+commit 65873d79219d6385f25deb04be1e2a9bc931a41c
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 14 09:21:58 2020 +1100
+
+    slight change to font on cards
+
+commit c0b982f4c943beaccf45869928d5707df4c9430b
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 14 08:14:20 2020 +1100
+
+    changed css for blog page changed blog cards to flex removed the borders and background and fixed the media queries so they work for all pages
+
+commit 5b164f9a61b44ca257b864d11215fc4a56f4f808
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Fri Nov 13 16:11:12 2020 +1100
+
+    made changes to css ti inline-flex for blog.html
+
+commit 720f41a8e32bca36bda506ebee0821f7323831bf
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Thu Nov 12 16:53:16 2020 +1100
+
+    added footers to all pages. Edited media queries.  Add resume and updated size colour and font of links on portfolio page
+
+commit b855334cb17c5d49d2d1fc047f9bd00799b0dcce
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Thu Nov 12 09:12:41 2020 +1100
+
+    added comments to html and css to explain code written
+
+commit 2a212cbeeed9096dc85550ee4baf4a6d89c5d4a9
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Wed Nov 11 20:15:49 2020 +1100
+
+     edited media queries fixeda centering issue with images on landing page.
+
+commit 86bb9165aaa2844bf93df728af648a24d13c33c4
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Wed Nov 11 19:20:23 2020 +1100
+
+    changes added to css adding media queries and added classes to images where nessary
+
+commit 7dde4a04db30b4d19b64c66a546b6c2f946b5337
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Wed Nov 11 15:22:50 2020 +1100
+
+    changed titles in landing and blog html and adding image folder
+
+commit ddf8911ad817e3d88905ff5579cb1fc04ab2a42c
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Mon Nov 9 19:10:38 2020 +1100
+
+    added changes to landing page moving picture.  Add another link and photo to about me.  Added css to landing page
+
+commit 1222f5655c5318890889d7626992b4224b11e4b6
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Mon Nov 9 17:34:42 2020 +1100
+
+    edited landing page in nav bar added content to about page. Added two links to about page to github and twitter.
+
+commit 4d455cdaebe29c1a920f8914ce46031c6df622bd
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 7 16:39:35 2020 +1100
+
+     added styling to blog page added image to landing page of tea pot
+
+commit cdf006f516eec2c59ce47b6ead047bf0c750af61
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 7 12:49:58 2020 +1100
+
+    style changed onblog and landing pages blog images and text add.
+
+commit 18dc6d303f4fdf81f3c45246365dcf145f972b8f
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Sat Nov 7 10:11:49 2020 +1100
+
+     modified css and added content to contact page and landing page
+
+commit cb2eb82316d0024916e19c4ffab0536dccb2d8ff
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Fri Nov 6 14:42:32 2020 +1100
+
+    content added to index styling added to pages navbar improved
+
+commit 99bcab86344ab0d07efde6719476f15e546833a6
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Thu Nov 5 12:58:12 2020 +1100
+
+     [first commit]
+
+commit dbba8e232d11b27bf036a056a6a2f34e27ccab26
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Wed Nov 4 17:13:14 2020 +1100
+
+    [first commit]
+
+commit 890cca8405453a820dcf947f61c1c80c9b424d08
+Author: [leslie barber] <[lbsnaturaltherapies@hotmail.com]>
+Date:   Wed Nov 4 16:34:00 2020 +1100
+
+     first commi.t
