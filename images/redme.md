@@ -15,24 +15,24 @@ As well providing me the oportunity to display my current work, bits of code and
 
 ## Functionality & Features
 My portfolio website works as a static website.
-There are 4 featured pages the landing page, blog page with 5 blogs with content, time and date and images for all.
-Each page has the same background colours to make it easy on the eyes as you change pages.  There is a navigation bar provided on all pages making it easy tomove to all 4 pages.  
+There are 4 featured pages the landing page, blog page with 5 blogs with content, time and date and images for all. Portfolio(about Me and )Contact page.
+Each page has the same background colours to make it easy on the eyes as you change pages.  There is a navigation bar provided on all pages making it easy to move to all 4 pages.  
 The text on each page is styled so that the heading and paragraphs all have there own size so they can be easily defined.  
-All the text has been styled with the font family in the css file.
+All the text has been styled with the inported font family in the css file.
 
-The style.css file has the media queries provided to make sure that regardless of what device or platform the user is using the page will be able to adjust to make the pages accessible, readable and functional for the user
+The style.css file has the media queries provided to make sure that regardless of what device or platform the user is using, the page will be able to adjust to make the pages accessible, readable and functional for the user.
 The style.css is also providing the layout for the blogs with the media queries.  There is also the sizing for the text and some of the images.
 Lastly Add to the html link from the css file is an intergrity hash to provide better security so that no malicious code can be added to the css to interrupt the users experience.  If the style sheet doesn't match it will not load for use.
 
 
 
 ## Sitemap & Wireframes
-My wireframes which where the beginning of a challenging but very fullfilling journey so far.  They are very simple and I didn't add the colour scheme or the text that ended up on the webpage.
+My wireframes which where the beginning of a challenging but very fullfilling journey so far.  They are very simple and I didn't add the hamburger menu or colour scheme or the text that ended up on the webpage.
 I found the designing progress challenging as at first didn't know where to start.
 Once I started with a good chain of thought I was able to keep it simple.  This is the same of the sight map I have used simple yet effective when it comes to the website.
 
 #### Sitemap are in the doc folder as screen shoots in png form detail provided below
-![ sitemap for developerbrewing.png](In the doc folder provided)
+![ sitemap for developerbrewing.png](docs/sitemap for developerbrewing.png)
 
 #### Wireframe Images
 All wireframe images are in the doc folder they are as follows
